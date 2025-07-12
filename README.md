@@ -1,2 +1,16 @@
-# Virtual-paint
-✍️ Virtual Paint App using OpenCV and MediaPipe. Allows users to draw on a live webcam feed with hand gestures. Built using Python, OpenCV, NumPy, and MediaPipe. Features drawing, selection of colors, and gesture recognition using hand landmarks.
+# 🖌️ Virtual Paint
+
+> A hand-gesture based virtual drawing application using OpenCV, MediaPipe, and Python.
+
+---
+
+## ✨ Features
+
+- 🖐️ Real-time hand tracking
+- 🎨 Virtual paintbrush that works with finger gestures
+- ✍️ Draw using your index finger like a stylus
+- 🧠 Smart gesture recognition for drawing vs. selection
+- 🌈 Change brush colors with hand position
+- 🧽 Erase by selecting black as a color
+
+
