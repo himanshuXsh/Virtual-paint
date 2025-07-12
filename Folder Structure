@@ -1,0 +1,13 @@
+virtualpaint/
+│
+├── Header/                  # Contains 4 images: 1.jpg, 2.jpg, 3.jpg, 4.jpg
+│   ├── 1.jpg
+│   ├── 2.jpg
+│   ├── 3.jpg
+│   └── 4.jpg
+│
+├── handmodule.py            # Hand tracking module
+├── virtualpaint.py          # Main application script
+├── README.md                # Project documentation
+├── requirements.txt         # Dependencies
+└── .gitignore               # Ignore unnecessary files
